@@ -5,6 +5,8 @@
     "tags": "tags",
     "Starts": "date",
     "Time": "text",
-    "created": "date"
+    "created": "date",
+    "Day": "text",
+    "Date": "date"
   }
 }

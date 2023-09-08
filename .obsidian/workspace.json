@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d4e83bbdd338e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Talk.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "acaafd563ca7d915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1e18abcbc31d3574",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home.md"
               }
             }
           },
@@ -142,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,16 +181,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81b554e843566da",
+  "active": "acaafd563ca7d915",
   "lastOpenFiles": [
+    "Talks/2023-09-26.md",
     "Home.md",
+    "Talks/2023-09-11.md",
+    "templates/Talk.md",
+    "README.md",
+    "Talks/2023-09-12.md",
+    "images/daily-notes-options.png",
+    "images/top-right.png",
+    "images/top-left-3.png",
+    "images/top-left-2.png",
+    "images/top-left-1.png",
+    "images/bottom-left.png",
+    "images/Capto_Capture 2023-09-08_03-20-59_PM.png.sb-f5bfea26-eZZALc",
+    "images",
     "Talks/2023-09-07.md",
     "Talks/2023-09-21.md",
-    "Talks/2023-09-26.md",
-    "README.md",
     "Notes/new note.md",
     "Notes/_Notes Map.md",
-    "templates/Talk.md",
     "notes",
     "Hom.md",
     "Home",
