@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/new note.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/new note.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +156,13 @@
   },
   "active": "a8591102b31fe86a",
   "lastOpenFiles": [
+    "Notes/_Notes Map.md",
+    "Notes/new note.md",
+    "README.md",
     "Talks/2023-09-07.md",
     "Home.md",
     "Talks/2023-09-26.md",
     "Talks/2023-09-21.md",
-    "README.md",
     "templates/Talk.md",
     "notes",
     "Hom.md",
