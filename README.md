@@ -1,5 +1,5 @@
 # Obsidian notes
-Obsidian is a powerful markdown editor. 
+Obsidian is a powerful markdown editor that is used primarily for Personal Knowledge Management.
 
 To get started watch this tutorials by Nick Milo:
 1. https://www.youtube.com/watch?v=QgbLb6QCK88&t=3s

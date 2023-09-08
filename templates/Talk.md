@@ -7,10 +7,9 @@ Date: {{date}}
 Day: {{date:ddd}}
 Time: "{{date:hh:mm}}" 
 AllocatedMin: 0
+Status: 
 Mode: ""
 Address: ""
-Accepted: ""
-Confirmed: ""
 tags: 
 ---
 # {{title}} 
@@ -20,4 +19,13 @@ tags:
 - [ ]
 ## Materials
 ## Debrief
+## Appendix
+
+|Key|Possible values|Description|
+|---|---|---|
+|Event|"name of event"|text field|
+|Topic|"title of presentation"|text field|
+|Mode|In-person, Virtual||
+|Status| Invited, Accepted, Confirmed, Canceled||
+
 
