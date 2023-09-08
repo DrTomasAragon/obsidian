@@ -14,5 +14,5 @@ To use this folder as an Obsidian vault, you will need add three Community Plugi
 1. Clone or download this Github repository from https://github.com/DrTomasAragon/obsidian. On your computer, a repository is just a folder.
 2. Download and install Obsidian app from https://obsidian.md.
 3. Go to Settings > Community Plugins > Browse
-	1. Install and Enable Calenda, Dataview, and Tasks
+	1. Install and Enable `Calendar`, `Dataview`, and `Tasks` plugins
 4. From Obsidian app, select "Open folder as vault"

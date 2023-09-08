@@ -1,7 +1,7 @@
 # Home
 ## Dataview of speaking engagements
 ```dataview
-TABLE Day, Time, AllocatedMin AS Min, Event, Topic, Status, height
+TABLE Day, Time, AllocatedMin AS Min, Event, Topic, Status
 FROM "Talks"
 ```
 
