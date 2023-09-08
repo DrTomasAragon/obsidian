@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/new note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/new note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/new note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/new note.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "a8591102b31fe86a",
   "lastOpenFiles": [
-    "Notes/_Notes Map.md",
-    "Notes/new note.md",
     "README.md",
+    "Notes/new note.md",
+    "Notes/_Notes Map.md",
     "Talks/2023-09-07.md",
     "Home.md",
     "Talks/2023-09-26.md",
