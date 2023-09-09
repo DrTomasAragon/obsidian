@@ -19,13 +19,14 @@ To use this folder as an Obsidian vault, you will need to add three Community Pl
 	1. Install and Enable `Calendar`, `Dataview`, and `Tasks` plugins
 4. From Obsidian app, select "Open folder as vault"
 ## Getting started
-
+Go ahead and edit the files. I put an asterisk `(*)` below next to selections you will need to use for this vault.
 ### Bottom-left side
 To install Community Plugins, select "Settings" (3).
-![[./images/1_bottom-left_num.png]]
+
+![](./images/1_bottom-left_num.png)
 1. Open another vault
 2. Help
-3. Settings
+3. Settings*
 ### Top-left-side 
 To create a today's date-based note, select "Open today's daily note." In this vault it will create a note in the "Talks" folder.
 
@@ -34,9 +35,10 @@ To create a today's date-based note, select "Open today's daily note." In this v
 1. Open quick switcher
 2. Open graph view
 3. Create new canvas
-4. Open today's daily note
+4. Open today's daily note*
 5. Insert template
 6. Open command palette
+To create a date-based note for a date other than to today, then select a date from the Calendar (see below).
 ### Top-left 
 ![](./images/3_top-left-2_num.png)
 1. Files
@@ -49,9 +51,11 @@ To create a today's date-based note, select "Open today's daily note." In this v
 8. Collapse all
 ### Top-left
 ![](./images/4_top-left-3_num.png)
-1, 2, and 3 are folders.
-4 (Home, README) are notes at the root of the folder.
-5, 6, and 7 are notes in the Notes, Talks, and templates directories, respectively.
+
+- 1, 2, and 3 are folders.
+- 4 (Home, README) are notes at the root of the folder.
+- 5, 6, and 7 are notes in the Notes, Talks, and templates directories, respectively.
+The `Home` note is a dashboard to summarize Talks planning and Tasks. To accomplish this I used the `Dataview` and `Tasks` Community Plugins.
 ### Top-right 
 ![](./images/5_top-right_num.png)
 1. Open Notes Tab menu
@@ -59,12 +63,16 @@ To create a today's date-based note, select "Open today's daily note." In this v
 3. Outgoing links
 4. Tags
 5. Outline for opened note
-6. Calendar (selected)
+6. Calendar*
 7. Collapse
 8. Toggle between Reading and Editing modes
 9. Dropdown menu for opened note
+To create a date-based note for a date other than to today, then select a date from the Calendar.
 ### Daily notes options
 We are using the Daily notes function to create date-based notes in the "Talks" folder. To accomplish this, set the "New file location" field to the "Talks" folder.
 
 ![](./images/daily-notes-options_copy.png)
-Set the "Template file location" field to "templates/Talks" path. In other words, the `Talks.md` file is located in the `templates` folder.
+
+Set the "Template file location" field to "templates/Talks" path. In other words, this means the `Talks.md` template file is located in the `templates` folder.
+## Final thoughts
+In this tutorial I took advantage of Obsidian's Daily Note function to plan and manage speaking engagements ("Talks"). 
