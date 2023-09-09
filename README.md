@@ -29,7 +29,7 @@ To install Community Plugins, select "Settings" (3).
 3. Settings
 ### Top-left-side 
 To create a today's date-based note, select "Open today's daily note." In this vault it will create a note in the "Talks" folder.
-![[2_top-left-1_num.png]]
+![[images/2_top-left-1_num.png]]
 1. Open quick switcher
 2. Open graph view
 3. Create new canvas
@@ -38,7 +38,7 @@ To create a today's date-based note, select "Open today's daily note." In this v
 6. Open command palette
 
 ### Top-left 
-![[3_top-left-2_num.png]]
+![[images/3_top-left-2_num.png]]
 1. Files
 2. Search
 3. Bookmarks
@@ -52,10 +52,11 @@ To create a today's date-based note, select "Open today's daily note." In this v
 1, 2, and 3 are folders.
 4 (Home, README) are notes in the root.
 5, 6, and 7 are notes in the Notes, Talks, and templates directories, respectively.
-![[4_top-left-3_num.png]]
+![[images/4_top-left-3_num.png]]
+
 
 ### Top-right 
-![[5_top-right_num.png]]
+![[images/5_top-right_num.png]]
 1. Open Notes Tab menu
 2. Backlinks (mentions) to opened note
 3. Outgoing links
@@ -68,5 +69,5 @@ To create a today's date-based note, select "Open today's daily note." In this v
 
 ### Daily notes options
 We are using the Daily notes function to create date-based notes in the "Talks" folder. To accomplish this, set the "New file location" field to the "Talks" folder.
-![[daily-notes-options_copy.png]]
+![[images/daily-notes-options_copy.png]]
 Set the "Template file location" field to "templates/Talks" path. In other words, the `Talks.md` file is located in the `templates` folder.
