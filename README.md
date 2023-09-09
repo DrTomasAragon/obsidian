@@ -28,7 +28,8 @@ To install Community Plugins, select "Settings" (3).
 3. Settings
 ### Top-left-side 
 To create a today's date-based note, select "Open today's daily note." In this vault it will create a note in the "Talks" folder.
-![[./images/2_top-left-1_num.png]]
+![](./images/2_top-left-1_num.png)
+
 1. Open quick switcher
 2. Open graph view
 3. Create new canvas
