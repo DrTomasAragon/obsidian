@@ -1,7 +1,7 @@
 # Obsidian notes
 [Obsidian](https://obsidian.md/) is a powerful markdown editor app that is free used primarily for [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) or PKM. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language for creating formatted text using a plain-text editor. 
 
-In this tutorial, I will show how to use Obsidian's "Daily Notes" functionality to set up a simple system to plan and manage calendar-based events. My example will be managing speaking engagements.
+In this tutorial, I show how to use Obsidian's "Daily Notes" functionality to set up a simple system to plan and manage calendar-based events. My example will be managing my speaking engagements.
 
 To get started watch these tutorials by Nick Milo:
 1. https://www.youtube.com/watch?v=QgbLb6QCK88&t=3s
@@ -11,15 +11,15 @@ To use this folder as an Obsidian vault, you will need to add three Community Pl
 - Calendar
 - Dataview
 - Tasks
-
 ## Installation and setup
 1. Clone or download this Github repository from https://github.com/DrTomasAragon/obsidian. On your computer, a repository is just a folder.
 2. Download and install Obsidian app from https://obsidian.md.
 3. Go to Settings > Community Plugins > Browse
 	1. Install and Enable `Calendar`, `Dataview`, and `Tasks` plugins
 4. From Obsidian app, select "Open folder as vault"
+That's it! You are good to go!
 ## Getting started
-Go ahead and edit the files. I put an asterisk `(*)` below next to selections you will need to use for this vault.
+Go ahead and edit the files. I put an asterisk `(*)` below next to selections you may need to use for this vault.
 ### Bottom-left side
 To install Community Plugins, select "Settings" (3).
 
@@ -75,4 +75,16 @@ We are using the Daily notes function to create date-based notes in the "Talks" 
 
 Set the "Template file location" field to "templates/Talks" path. In other words, this means the `Talks.md` template file is located in the `templates` folder.
 ## Final thoughts
-In this tutorial I took advantage of Obsidian's Daily Note function to plan and manage speaking engagements ("Talks"). 
+In this tutorial I took advantage of Obsidian's Daily Note function to plan and manage speaking engagements ("Talks"). We used the `Dataview` and `Tasks` Community Plugins.
+
+Obsidian is best for setting up bottom-up, low friction processes for 
+- Personal Knowledge Management
+- Note making, including
+	- meeting notes
+	- literature notes
+	- research notes
+	- atomic notes, including Zettelkasten method
+To learn more, view YouTube tutorials from 
+- [Nick Milo](https://www.youtube.com/@linkingyourthinking)
+- [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh)
+
