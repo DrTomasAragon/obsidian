@@ -24,6 +24,7 @@ Go ahead and edit the files. I put an asterisk `(*)` below next to selections yo
 To install, enable, or update Community Plugins, select "Settings" (3). For this vault the Community Plugins were already installed and enabled.
 
 ![](./images/1_bottom-left_num.png)
+
 1. Open another vault
 2. Help
 3. Settings*
@@ -59,6 +60,7 @@ This section is for managing folders, files, and searches. You can also create a
 - 5, 6, and 7 are notes in the Notes, Talks, and templates directories, respectively.
 The `Home` note is a dashboard to summarize Talks planning and Tasks. To accomplish this I used the `Dataview` and `Tasks` Community Plugins.
 ### Top-right 
+
 ![](./images/5_top-right_num.png)
 1. Open Notes Tab menu
 2. Backlinks (mentions) to opened note
