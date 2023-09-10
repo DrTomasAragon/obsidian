@@ -1,7 +1,7 @@
 # Obsidian notes
 [Obsidian](https://obsidian.md/) is a powerful markdown editor app that is free used primarily for [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) or PKM. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language for creating formatted text using a plain-text editor. 
 
-In this tutorial, I show how to use Obsidian's "Daily Notes" functionality to set up a simple system to plan and manage calendar-based events. My example will be managing my speaking engagements.
+Here I show how to use Obsidian's "Daily Notes" functionality to set up a simple system to plan and manage calendar-based events. My example will be to manage my speaking engagements.
 
 To get started watch these tutorials by Nick Milo:
 1. https://www.youtube.com/watch?v=QgbLb6QCK88&t=3s
@@ -21,14 +21,14 @@ That's it! You are good to go!
 ## Getting started
 Go ahead and edit the files. I put an asterisk `(*)` below next to selections you may need to use for this vault.
 ### Bottom-left side
-To install Community Plugins, select "Settings" (3).
+To install, enable, or update Community Plugins, select "Settings" (3). For this vault the Community Plugins were already installed and enabled.
 
 ![](./images/1_bottom-left_num.png)
 1. Open another vault
 2. Help
 3. Settings*
 ### Top-left-side 
-To create a today's date-based note, select "Open today's daily note." In this vault it will create a note in the "Talks" folder.
+To create a today's date-based note, select "Open today's daily note" (4). In this vault it will create a note in the "Talks" folder.
 
 ![](./images/2_top-left-1_num.png)
 
@@ -38,8 +38,10 @@ To create a today's date-based note, select "Open today's daily note." In this v
 4. Open today's daily note*
 5. Insert template
 6. Open command palette
-To create a date-based note for a date other than to today, then select a date from the Calendar (see below).
+To create a date-based note for a date other than today, then select a date from the Calendar (see below). This creates a note in the "Talks" folder with the selected date.
 ### Top-left 
+This section is for managing folders, files, and searches. You can also create a new note or folder. 
+
 ![](./images/3_top-left-2_num.png)
 1. Files
 2. Search
@@ -83,7 +85,9 @@ Obsidian is best for setting up bottom-up, low friction processes for
 	- meeting notes
 	- literature notes
 	- research notes
-	- atomic notes, including Zettelkasten method
+	- atomic notes, including the Zettelkasten method
+- Connecting ideas and concepts to generate new insights.
+
 To learn more, view YouTube tutorials from 
 - [Nick Milo](https://www.youtube.com/@linkingyourthinking)
 - [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh)
