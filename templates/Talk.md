@@ -5,23 +5,30 @@ GoTo:
 Event: "event name"
 Topic: "speaking topic"
 Date: {{date}} 
-Day: {{date:ddd}}
-Time: "{{date:hh:mm}}" 
+Day: "{{date: ddd}}"
+Time: 00:00
 AllocatedMin: 0
-Status: "INVITED, ACCEPTED, CONFIRMED, CANCELED, or CLOSED"
-Mode: "virtual, in-person, other"
-Address: ""
-tags: 
+Status: "Invited, Accepted, Confirmed, Delegated, Not accepted, other (pick one)"
+Mode: "virtual, in-person, other (pick one)"
+Address:  
+tags:
 ---
 # {{title}}  - event name
 ## Notes
-## Topics
+
 ## Tasks
 - [ ]
 ## Materials
+- 
 ## Travel
+### Airlines
+
+### Local transport (eg, car rental, subway)
+
 ## Lodging
+
 ## Reimbursements
+
 ## Debrief
 
 

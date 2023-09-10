@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "8d4e83bbdd338e43",
+            "id": "acaafd563ca7d915",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,14 @@
             }
           },
           {
-            "id": "acaafd563ca7d915",
+            "id": "13a8554c13e71353",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,11 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acaafd563ca7d915",
+  "active": "a8591102b31fe86a",
   "lastOpenFiles": [
     "Home.md",
+    "Talks/2023-09-28.md",
+    "Talks/2023-09-10.md",
+    "Talks/2023-09-25.md",
+    "Talks/2023-09-07.md",
     "templates/Talk.md",
     "README.md",
+    "Notes/_Notes Map.md",
     "images/5_top-right_num.png",
     "images/4_top-left-3_num.png",
     "images/3_top-left-2_num.png",
@@ -198,10 +199,8 @@
     "Talks/2023-09-12.md",
     "images/Capto_Capture 2023-09-08_03-20-59_PM.png.sb-f5bfea26-eZZALc",
     "images",
-    "Talks/2023-09-07.md",
     "Talks/2023-09-21.md",
     "Notes/new note.md",
-    "Notes/_Notes Map.md",
     "notes",
     "Hom.md",
     "Home",

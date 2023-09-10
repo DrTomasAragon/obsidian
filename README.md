@@ -1,5 +1,5 @@
 # Obsidian notes
-[Obsidian](https://obsidian.md/) is a powerful markdown editor app that is free used primarily for [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) or PKM. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language for creating formatted text using a plain-text editor. 
+[Obsidian](https://obsidian.md/) is a powerful markdown editor app that is free and used primarily for [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) or PKM. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language for creating formatted text using a plain-text editor. 
 
 Here I show how to use Obsidian's "Daily Notes" functionality to set up a simple system to plan and manage calendar-based events. My example will be to manage my speaking engagements.
 
