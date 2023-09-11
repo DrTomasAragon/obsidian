@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "templates/Talk.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "templates/Talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "templates/Talk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "templates/Talk.md"
               }
             }
           },
@@ -176,13 +176,13 @@
   },
   "active": "a8591102b31fe86a",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
     "Talks/2023-09-28.md",
     "Talks/2023-09-10.md",
     "Talks/2023-09-25.md",
     "Talks/2023-09-07.md",
     "templates/Talk.md",
-    "README.md",
     "Notes/_Notes Map.md",
     "images/5_top-right_num.png",
     "images/4_top-left-3_num.png",

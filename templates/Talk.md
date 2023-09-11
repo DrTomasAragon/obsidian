@@ -2,16 +2,16 @@
 GoTo:
   - "[[Home]]"
   - "[[_Notes Map]]"
-Event: "event name"
-Topic: "speaking topic"
-Date: {{date}} 
-Day: "{{date: ddd}}"
-Time: 00:00
-AllocatedMin: 0
-Status: "Invited, Accepted, Confirmed, Delegated, Not accepted, other (pick one)"
-Mode: "virtual, in-person, other (pick one)"
-Address:  
-tags:
+event: "event name"
+topic: "speaking topic"
+date: {{date}} 
+day: "{{date: ddd}}"
+time: 00:00
+allocatedMin: 0
+status: "Invited, Accepted, Confirmed, Delegated, Not accepted, other (pick one)"
+mode: "virtual, in-person, call, other (pick one)"
+address:  
+tags: 
 ---
 # {{title}}  - event name
 ## Notes
